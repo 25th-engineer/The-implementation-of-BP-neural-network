@@ -17,15 +17,20 @@
 	<br></br>
 >>算法实现效果概览：
 	<br></br>
-	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/三层BP神经网络示意图.png)   <br></br>
+	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/三层BP神经网络示意图.png)
+	<br></br>
 >>*  图1 三层BP神经网络示意图<br></br>
-	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/初始化参数.png)     <br></br>
+	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/初始化参数.png)
+	<br></br>
 >>*  图2 初始化参数<br></br>
-	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练运行时.png)		<br></br>
+	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练运行时.png)
+	<br></br>
 >>*  图3 程序训练运行时<br></br>
-	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练完成.png)			<br></br>
+	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练完成.png)
+	<br></br>
 >>*  图4 程序训练完成<br></br>
-	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/测试算法训练结果.png)		<br></br>
+	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/测试算法训练结果.png)
+	<br></br>
 >>*  图5 测试算法训练结果<br></br>
 	<br></br>
 	[我的博客](https://blog.csdn.net/u25th_engineer)
