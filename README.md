@@ -1,6 +1,6 @@
 # The-implementation-of-BP-neural-network
-##BP神经网络的实现：`合工大`“程序设计与算法训练”课程设计。<br/>
-##The implementation of BP neural network: the course design of "program design and algorithm training" in HFUT.
+## BP神经网络的实现：`合工大`“程序设计与算法训练”课程设计。<br/> 
+## The implementation of BP neural network: the course design of "program design and algorithm training" in HFUT.
 
 71 BP神经网络的实现
 ===================
@@ -16,18 +16,17 @@
 	* （3）利用 BP 神经网络实现螨虫分类。  
 	<br></br>
 	算法实现效果概览：
-	----------------
-	<br/>
+	<br></br>
 	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/三层BP神经网络示意图.png)
-		* 图1 三层BP神经网络示意图
+		* 图1 三层BP神经网络示意图<br></br>
 	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/初始化参数.png)
-		* 图2 初始化参数
+		* 图2 初始化参数<br></br>
 	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练运行时.png)
-		*图3 程序训练运行时
+		*图3 程序训练运行时<br></br>
 	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/程序训练完成.png)
-		* 图4 程序训练完成
+		* 图4 程序训练完成<br></br>
 	![](https://github.com/25thengineer/The-implementation-of-BP-neural-network/raw/master/design_report_and_check_report/测试算法训练结果.png)
-		* 图5 测试算法训练结果
-	<br/>
+		* 图5 测试算法训练结果<br></br>
+	<br></br>
 	[我的博客](https://blog.csdn.net/u25th_engineer)
 			
