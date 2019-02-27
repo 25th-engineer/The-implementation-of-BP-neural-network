@@ -33,4 +33,4 @@
 	<br></br>
 >>*  图5 测试算法训练结果<br></br>
 	<br></br>
-	[我的博客](https://blog.csdn.net/u25th_engineer)
+	[该内容在我的CSDN博客中的位置](https://blog.csdn.net/u25th_engineer/article/details/87909425)
