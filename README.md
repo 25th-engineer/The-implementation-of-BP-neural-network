@@ -1,5 +1,5 @@
 # The-implementation-of-BP-neural-network
-## BP神经网络的实现：`合工大`“程序设计与算法训练”课程设计。<br/> 
+## BP神经网络的实现：`合肥工业大学（合工大）`“程序设计与算法训练”课程设计。<br/> 
 ## The implementation of BP neural network: the course design of "program design and algorithm training" in HFUT.
 
 71 BP神经网络的实现
